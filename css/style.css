@@ -12,7 +12,7 @@ a {
     color: #d21034;
 }
 
-h1 {
+h1{
     background-color: #333333;
     color: #eee;
     font-size: 28px;
@@ -38,11 +38,11 @@ h2 {
 }
 
 #main-bio {
-    width: 68%;
+    width: 60%;
 }
 
 #contact-info {
-    width: 32%;
+    width: 40%;
 }
 
 #bio-image {
